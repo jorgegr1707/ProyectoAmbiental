@@ -1,0 +1,4 @@
+para insertar un rol, primero se llama a insertar persona y luego si la persona se crea
+se llama a insertarRol(cualquier rol)
+
+hay que crear un update para actualizar el estado y la categoria de la noticia
