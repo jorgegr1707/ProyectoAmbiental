@@ -25,7 +25,7 @@ namespace CapaEnlaceDatos
         }
 
         // Llena los datos para el procedimiento
-        public DataTable listado(String NombreSP, List<Parametro> lista) {
+        public DataTable Consulta(String NombreSP, List<Parametro> lista) {
             DataTable dt = new DataTable();
             SqlDataAdapter da;
             try {
